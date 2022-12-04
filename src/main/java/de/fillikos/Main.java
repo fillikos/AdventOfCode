@@ -3,7 +3,7 @@ package de.fillikos;
 public class Main {
 
     public static void main(String[] args) {
-        DayThree day = new DayThree();
+        DayFour day = new DayFour();
         day.getQeustionOne();
         day.getQuestionTwo();
     }
