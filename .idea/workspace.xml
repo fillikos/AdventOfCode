@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba3694be-7d43-44da-bca9-c03c35be434a" name="Changes" comment="dayOne commit">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/fillikos/DayThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/fillikos/DayTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/InputDayThree.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/InputDayTwo.txt" afterDir="false" />
+    <list default="true" id="ba3694be-7d43-44da-bca9-c03c35be434a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fillikos/DayFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/InputDayFour.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/de/fillikos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/fillikos/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,15 +25,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dayOne" />
+        <entry key="$PROJECT_DIR$" value="dayThree" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,16 +54,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.fillikos.Main" />
@@ -96,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670066486932</updated>
-      <workItem from="1670066488708" duration="14665000" />
+      <workItem from="1670066488708" duration="16228000" />
+      <workItem from="1670154371770" duration="2485000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1670080267874</created>
@@ -112,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670080577978</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dayTwo commit">
+      <created>1670081706727</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670081706727</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dayThree commit">
+      <created>1670081962154</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670081962154</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +155,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="dayOne commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="dayOne commit" />
+    <MESSAGE value="dayTwo commit" />
+    <MESSAGE value="dayThree commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="dayThree commit" />
   </component>
 </project>
