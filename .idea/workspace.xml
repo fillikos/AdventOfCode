@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba3694be-7d43-44da-bca9-c03c35be434a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/fillikos/DayFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/InputDayFour.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fillikos/DayFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/InputDayFive.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/de/fillikos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/fillikos/Main.java" afterDir="false" />
     </list>
@@ -33,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dayThree" />
+        <entry key="$PROJECT_DIR$" value="dayFour" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +42,14 @@
       <list>
         <option value="master" />
       </list>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="fillikos" />
+        <option name="repository" value="AdventOfCode" />
+      </RepoCoordinatesHolder>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -93,7 +100,9 @@
       <option name="presentableId" value="Default" />
       <updated>1670066486932</updated>
       <workItem from="1670066488708" duration="16228000" />
-      <workItem from="1670154371770" duration="2485000" />
+      <workItem from="1670154371770" duration="3097000" />
+      <workItem from="1670173931510" duration="54000" />
+      <workItem from="1670263762601" duration="4355000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1670080267874</created>
@@ -123,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670081962154</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dayFour commit">
+      <created>1670157153283</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670157153283</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +173,7 @@
     <MESSAGE value="dayOne commit" />
     <MESSAGE value="dayTwo commit" />
     <MESSAGE value="dayThree commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="dayThree commit" />
+    <MESSAGE value="dayFour commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="dayFour commit" />
   </component>
 </project>
