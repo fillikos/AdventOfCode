@@ -11,7 +11,6 @@ import java.util.List;
 public class DayFive implements Questions {
 
     List<String> inputData = new ArrayList<>();
-    List<String> testData = new ArrayList<>();
 
     public DayFive() {
         File file = new File("src\\main\\resources\\InputDayFive.txt");
